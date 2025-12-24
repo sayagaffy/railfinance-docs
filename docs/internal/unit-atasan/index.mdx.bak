@@ -1,0 +1,159 @@
+**USER MANUAL ( UNIT ATASAN)**
+
+**RAILFINANCE**
+
+<img src="/img/railfinance/unit-atasan/media/image1.png" style="width:3.69792in;height:1.27712in" />
+
+**  **
+
+# Daftar Isi
+
+[Melakukan Approval [3](#melakukan-approval)](#melakukan-approval)
+
+[Melakukan Reject [5](#melakukan-reject)](#melakukan-reject)
+
+[Melihat Dokumen [7](#melihat-dokumen)](#melihat-dokumen)
+
+**  **
+
+### Melakukan Approval
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan <strong>NIPP</strong> dan <strong>Password</strong>. Lalu klik Button <strong>Login</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image3.png" style="width:3.62014in;height:1.56228in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman <strong>dashboard</strong>. Lalu pilih menu <strong>Internal (UMDS)</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image4.png" style="width:3.54331in;height:1.64603in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td><p>Sistem akan menampilkan</p>
+<p>Halaman list <strong>Internal (UMDS).</strong> Lalu klik <strong>Button</strong> dengan <strong>Icon Jempol.</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image5.png" style="width:3.54331in;height:1.62954in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Sistem akan menampilkan Halaman <strong>Approval.</strong> Lalu klik <strong>Button Approval.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image6.png" style="width:3.54331in;height:1.65153in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td>Sistem akan menampilkan Pop Up. Lalu Klik <strong>Saya Menyetujui.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image7.png" style="width:3.54331in;height:1.6425in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Tanda <strong>Approval</strong> Berhasil, bisa dilihat pada <strong>Status</strong> yang berubah menjadi <strong>terkirim</strong> dan tombol <strong>Icon Jempol</strong> yang menghilang.</td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image8.png" style="width:3.54331in;height:0.33564in" /></td>
+</tr>
+</tbody>
+</table>
+
+### Melakukan Reject
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan <strong>NIPP</strong> dan <strong>Password</strong>. Lalu klik Button <strong>Login</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image3.png" style="width:3.62014in;height:1.56228in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman <strong>dashboard</strong>. Lalu pilih menu <strong>Internal (UMDS)</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image4.png" style="width:3.54331in;height:1.64603in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td><p>Sistem akan menampilkan</p>
+<p>Halaman list <strong>Internal (UMDS).</strong> Lalu klik <strong>Button</strong> dengan <strong>Icon Jempol.</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image5.png" style="width:3.54331in;height:1.62954in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Sistem akan menampilkan Halaman <strong>Approval.</strong> Lalu klik <strong>Button Reject.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image6.png" style="width:3.54331in;height:1.65153in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td>Sistem akan menampilkan Pop Up Reject. Lalu <strong>Masukan Keterangan</strong> dan Klik button <strong>Ya,Reject</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image9.png" style="width:3.54331in;height:1.63111in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Tanda reject Berhasil, bisa dilihat pada <strong>Status Dokumen</strong> yang berubah menjadi <strong>Dikembalikan Pemeriksa</strong> dan terdapat <strong>keterangan</strong> yang sudah dimasukan</td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image10.png" style="width:3.54331in;height:0.11973in" /></td>
+</tr>
+</tbody>
+</table>
+
+### Melihat Dokumen
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan <strong>NIPP</strong> dan <strong>Password</strong>. Lalu klik Button <strong>Login</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image3.png" style="width:3.62014in;height:1.56228in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman <strong>dashboard</strong>. Lalu pilih menu <strong>Internal (UMDS)</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image4.png" style="width:3.54331in;height:1.64603in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td><p>Sistem akan menampilkan</p>
+<p>Halaman list <strong>Internal (UMDS).</strong> Lalu klik <strong>Button</strong> dengan <strong>Icon Mata.</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image5.png" style="width:3.54331in;height:1.62954in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Sistem akan menampilkan Halaman <strong>Approval.</strong> Lalu klik nama dokumen yang berwarna biru seperti tanda pada gamabar<strong>.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/unit-atasan/media/image11.png" style="width:3.54331in;height:1.63426in" /></td>
+</tr>
+</tbody>
+</table>
+
+

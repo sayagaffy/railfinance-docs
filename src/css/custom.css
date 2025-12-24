@@ -1,0 +1,246 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* KAI Blue Palette */
+  --ifm-color-primary: #2B2968;
+  --ifm-color-primary-dark: #242358;
+  --ifm-color-primary-darker: #1d1c47;
+  --ifm-color-primary-darkest: #080717;
+  --ifm-color-primary-light: #3e3b8b;
+  --ifm-color-primary-lighter: #070708;
+  --ifm-color-primary-lightest: #5651c9;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* KAI Orange Accent (Used sparingly now) */
+  --kai-orange: #F37021;
+
+  /* Typography */
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --ifm-heading-font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --ifm-heading-font-weight: 700;
+  --ifm-font-size-base: 16px;
+  --ifm-line-height-base: 1.65;
+  --ifm-list-item-margin: 0.5rem;
+}
+
+/* Dark Mode Palette */
+[data-theme='dark'] {
+  --ifm-color-primary: #aaacef;
+  --ifm-color-primary-dark: #8b88eb;
+  --ifm-color-primary-darker: #7b78e6;
+  --ifm-color-primary-darkest: #5c59d9;
+  --ifm-color-primary-light: #5651c9;
+  --ifm-color-primary-lighter: #4945aa;
+  --ifm-color-primary-lightest: #3e3b8b;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Typography Hierarchy Enhancements */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: -0.01em;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-primary);
+  /* Default to KAI Blue */
+}
+
+/* H1: Main Title - Largest to start visuals */
+h1 {
+  font-weight: 800;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+}
+
+/* H2: Major Sections - Distinct underlined style */
+h2 {
+  font-weight: 700;
+  font-size: 2rem;
+  border-bottom: 2px solid var(--ifm-color-primary-lightest);
+  padding-bottom: 0.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+/* H3: Sub-sections / Steps - Use Dark Blue as requested */
+h3 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: var(--ifm-color-primary-dark);
+  /* Darker blue for hierarchy */
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  text-transform: none;
+  /* Removed uppercase for better readability */
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] h1,
+[data-theme='dark'] h2,
+[data-theme='dark'] h3 {
+  color: var(--ifm-color-primary-lightest);
+}
+
+/* Document Lists */
+.theme-doc-markdown ul {
+  list-style-type: none;
+  padding-left: 0.5rem;
+}
+
+.theme-doc-markdown ul li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.theme-doc-markdown ul li::before {
+  content: "➜";
+  color: var(--ifm-color-primary);
+  /* Changed from Orange to Blue */
+  font-weight: bold;
+  font-size: 1em;
+  position: absolute;
+  left: 0;
+  top: 0px;
+}
+
+/* Links */
+.theme-doc-markdown a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease-in-out;
+  font-weight: 600;
+}
+
+.theme-doc-markdown a:hover {
+  color: var(--ifm-color-primary-dark);
+  border-bottom: 2px solid var(--ifm-color-primary-dark);
+  text-decoration: none;
+}
+
+[data-theme='dark'] .theme-doc-markdown a {
+  color: var(--ifm-color-primary-lightest);
+}
+
+[data-theme='dark'] .theme-doc-markdown a:hover {
+  color: white;
+  border-color: white;
+}
+
+/* Images */
+.markdown img {
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.markdown img:hover {
+  transform: scale(1.01);
+}
+
+/* Tables */
+table {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 30px 0;
+  font-size: 0.95rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
+table tr:nth-child(even) {
+  background-color: var(--ifm-background-color);
+}
+
+table tr:nth-child(odd) {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+[data-theme='dark'] table tr:nth-child(odd) {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+table th {
+  background-color: var(--ifm-color-primary);
+  color: white;
+  padding: 16px;
+  text-align: left;
+  font-weight: 700;
+}
+
+table td {
+  padding: 16px;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* Admonitions */
+.alert {
+  border: none;
+  border-left: 5px solid;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease;
+  margin-bottom: 2rem;
+}
+
+.alert:hover {
+  transform: translateY(-2px);
+}
+
+/* Sidebar Navigation Styling - Simplified and Fixed Contrast */
+.menu__link {
+  color: var(--ifm-color-emphasis-700);
+  /* Dark grey text by default */
+  border-radius: 6px;
+  transition: background-color 0.2s;
+}
+
+.menu__link:hover {
+  color: var(--ifm-color-primary);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* Active State: The item currently selected */
+.menu__link--active {
+  color: var(--ifm-color-primary) !important;
+  /* Blue TEXT */
+  background-color: rgba(43, 41, 104, 0.1) !important;
+  /* Very Light Blue BG */
+  font-weight: 700;
+}
+
+/* This targets the 'index' or specific leaf node active state specifically if needed, 
+   but Docusaurus uses menu__link--active for both. 
+   We explicitly avoid White Text on Light Background by using Blue Text on Light BG.
+*/
+
+[data-theme='dark'] .menu__link {
+  color: var(--ifm-color-emphasis-600);
+}
+
+[data-theme='dark'] .menu__link:hover {
+  color: white;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme='dark'] .menu__link--active {
+  background-color: rgba(170, 172, 239, 0.2) !important;
+  color: var(--ifm-color-primary-lightest) !important;
+}

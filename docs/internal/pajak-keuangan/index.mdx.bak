@@ -1,0 +1,943 @@
+**USER MANUAL (PAJAK & KEUANGAN)**
+
+**RAILFINANCE**
+
+<img src="/img/railfinance/pajak-keuangan/media/image1.png" style="width:3.69792in;height:1.27712in" />
+
+**  **
+
+# Daftar Isi
+
+[Approval Dokumen – Pencairan Normal atau Penggantian [3](#approval-dokumen-pencairan-normal-atau-penggantian)](#approval-dokumen-pencairan-normal-atau-penggantian)
+
+[Approval Dokumen – Pertanggung Jawaban [6](#approval-dokumen-pertanggung-jawaban)](#approval-dokumen-pertanggung-jawaban)
+
+[Approval Pertanggung Jawaban – Pajak [9](#approval-pertanggung-jawaban-pajak)](#approval-pertanggung-jawaban-pajak)
+
+[Revisi Pertanggung Jawaban – Pajak [11](#revisi-pertanggung-jawaban-pajak)](#revisi-pertanggung-jawaban-pajak)
+
+[Reject Pertanggung Jawaban – Pajak [14](#reject-pertanggung-jawaban-pajak)](#reject-pertanggung-jawaban-pajak)
+
+[Reject Dokumen [17](#reject-dokumen)](#reject-dokumen)
+
+[Pencairan UMDS - Normal [18](#pencairan-umds---normal)](#pencairan-umds---normal)
+
+[Pencairan UMDS - Penggantian [22](#pencairan-umds---penggantian)](#pencairan-umds---penggantian)
+
+[Pertanggung Jawaban UMDS [26](#pertanggung-jawaban-umds)](#pertanggung-jawaban-umds)
+
+[Revisi UMDS [30](#revisi-umds)](#revisi-umds)
+
+[Hapus UMDS [33](#hapus-umds)](#hapus-umds)
+
+[Approve UMDS [34](#approve-umds)](#approve-umds)
+
+[Reject UMDS [35](#reject-umds)](#reject-umds)
+
+**  **
+
+### Approval Dokumen – Pencairan Normal atau Penggantian
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan NIPP dan Password</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu <strong>Menunggu Verifikasi</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image4.png" style="width:3.1601in;height:1.45711in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>Tampil halaman list yang belum di verifikasi. Pertama cek terlebih dahulu apakah list tersebut sudah di assign ke user atau belum. Jika belum di assign klik button <strong>Assign</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image5.png" style="width:2.96904in;height:1.38011in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Tampil Popup List User</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image6.png" style="width:2.94566in;height:1.36532in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td><p>Cari user yang bersangkutan/bertanggung jawab dengan verifikasi dokumen tersebut. Lalu klik <strong>Nama User</strong> dan klik button <strong>Assign</strong></p>
+<p>Catatan: untuk assign ini bisa dilakukan ke diri sendiri</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image7.png" style="width:3.30636in;height:1.52044in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Tampil popup konfirmasi lalu klik button <strong>Ya, Assign</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image8.png" style="width:3.34175in;height:1.51818in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td>Tampil popup informasi berhasil assign user lalu klik button <strong>Ok</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image9.png" style="width:3.36758in;height:1.55522in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td>Setelah selesai assign maka label status akan berubah menjadi <strong>di proses nama_user</strong>. Proses selanjutnya Adalah Verify atau Reject Dokumen. Klik button <strong>View</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image10.png" style="width:3.85184in;height:1.77004in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td>Tampil Detail Seperti ini, lalu pastikan dokumen yang dibuat sesuai dengan kebutuhan, untuk melihat dokumen bisa klik button <strong>Dokumen.</strong> Jika semua dokumen sudah dipastikan sesuai selanjutnya adalah klik Buttton <strong>Verify</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image11.png" style="width:3.27727in;height:1.51969in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td><p>Setelah klik <strong>Verify</strong> akan muncul tampil berikut disini ada pilihan untuk upload dokumen G64 atau tidak.</p>
+<ol type="1">
+<li><p>Jika akan upload dokumen G64 klik button <strong>Upload</strong> tunggu proses upload hingga selesai jika sudah selesai klik button <strong>Approval.</strong></p></li>
+<li><p>Jika tidak mengupload dokumen bisa langsung klik button <strong>Approval</strong></p></li>
+</ol>
+<p>Catatan: Jika <strong>Dokumen G64</strong> sudah di upload oleh pengaju maka <strong>Dokumen G64</strong> disini menjadi optional. Jika keuangan ingin mengupload <strong>Dokumen G64</strong> pastikan tanda tangannya ada 2 (Pengaju dan Keuangan)</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image12.png" style="width:3.36224in;height:1.54747in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">11</td>
+<td>Tampil popup konfirmasi klik button <strong>Submit</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image13.png" style="width:3.29071in;height:1.50981in" /></td>
+</tr>
+</tbody>
+</table>
+
+### Approval Dokumen – Pertanggung Jawaban
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan NIPP dan Password</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu <strong>Menunggu Verifikasi</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image4.png" style="width:3.1601in;height:1.45711in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>Tampil halaman list yang belum di verifikasi. Pertama cek terlebih dahulu apakah list tersebut sudah di assign ke user atau belum. Jika belum di assign klik button <strong>Assign</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image5.png" style="width:2.96904in;height:1.38011in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Tampil Popup List User</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image6.png" style="width:2.94566in;height:1.36532in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td><p>Cari user yang bersangkutan/bertanggung jawab dengan verifikasi dokumen tersebut. Lalu klik <strong>Nama User</strong> dan klik button <strong>Assign</strong></p>
+<p>Catatan: untuk assign ini bisa dilakukan ke diri sendiri</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image7.png" style="width:3.30636in;height:1.52044in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Tampil popup konfirmasi lalu klik button <strong>Ya, Assign</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image8.png" style="width:3.34175in;height:1.51818in" alt="A screen shot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td>Tampil popup informasi berhasil assign user lalu klik button <strong>Ok</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image9.png" style="width:3.36758in;height:1.55522in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td><p>Setelah selesai assign maka label status akan berubah menjadi <strong>di proses nama_user</strong>. Proses selanjutnya Adalah Verify atau Reject Dokumen. Klik button <strong>View</strong></p>
+<p>Catatan: Pastikan jenis pengadaannya Adalah <strong>Pertanggung Jawaban</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image10.png" style="width:3.85184in;height:1.77004in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td>Tampil Detail Seperti ini, lalu pastikan dokumen yang dibuat sesuai dengan kebutuhan, untuk melihat dokumen bisa klik button <strong>Dokumen Keabsahan.</strong> Jika semua dokumen sudah dipastikan sesuai selanjutnya adalah klik Buttton <strong>Calculate by AI</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image14.png" style="width:3.27727in;height:1.43188in" /></td>
+</tr>
+<tr>
+<td rowspan="4" style="text-align: center;">10</td>
+<td rowspan="4"><p>Setelah klik <strong>Calculate by AI</strong></p>
+<p>akan muncul tampilan detail total dari pengeluaran sampai pajak. Jika ada perubahan nilai atau ada angkanya salah bisa langsung melakukan edit di fieldnya. Tapi jika sudah sesuai bisa langsung klik button <strong>Approval Keuangan</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image15.png" style="width:3.93472in;height:1.32569in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image16.png" style="width:3.22222in;height:1.375in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image17.png" style="width:3.09167in;height:1.375in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image18.png" style="width:3.09167in;height:0.88056in" /></td>
+</tr>
+</tbody>
+</table>
+
+### Approval Pertanggung Jawaban – Pajak
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan NIPP dan Password</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu <strong>Sudah Diverifikasi</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image19.png" style="width:3.1601in;height:1.45483in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>Tampil halaman list yang belum di verifikasi. Pertama cek terlebih dahulu apakah list tersebut sudah di assign ke user atau belum. Jika belum di assign klik button <strong>Assign</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image20.png" style="width:2.96904in;height:1.36184in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Tampil Popup List User</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image21.png" style="width:2.94566in;height:1.36379in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td><p>Cari user yang bersangkutan/bertanggung jawab dengan verifikasi dokumen tersebut. Lalu klik <strong>Nama User</strong> dan klik button <strong>Assign</strong></p>
+<p>Catatan: untuk assign ini bisa dilakukan ke diri sendiri</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image22.png" style="width:3.26759in;height:1.52044in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Tampil popup konfirmasi lalu klik button <strong>Ya, Assign</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image23.png" style="width:3.2977in;height:1.51818in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td><p>Setelah selesai assign maka label status akan berubah menjadi <strong>di proses nama_user</strong>. Proses selanjutnya Adalah Verify atau Reject Dokumen. Klik button <strong>View</strong></p>
+<p>Catatan: Pastikan jenis pengadaannya Adalah <strong>Pertanggung Jawaban</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image24.png" style="width:3.85184in;height:1.74144in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td>Tampil Detail Seperti ini, lalu pastikan dokumen yang dibuat sesuai dengan kebutuhan, untuk melihat dokumen bisa klik button <strong>Dokumen Keabsahan.</strong> Jika semua dokumen sudah dipastikan sesuai selanjutnya adalah klik Buttton <strong>Calculate by AI/Verify</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image25.png" style="width:3.10132in;height:1.43188in" /></td>
+</tr>
+<tr>
+<td rowspan="3" style="text-align: center;">9</td>
+<td rowspan="3"><p>Setelah klik <strong>Calculate by AI/Verify</strong></p>
+<p>akan muncul tampilan detail total dari pengeluaran sampai pajak. Jika ada perubahan nilai atau ada angkanya salah bisa langsung melakukan edit di fieldnya. Tapi jika sudah sesuai bisa langsung klik button <strong>Approval Perpajakan &amp; Keuangan</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image26.png" style="width:3.05556in;height:1.18472in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image27.png" style="width:2.30694in;height:1.16181in" /><img src="/img/railfinance/pajak-keuangan/media/image28.png" style="width:2.30972in;height:0.94375in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image29.png" style="width:2.28681in;height:0.64722in" /></td>
+</tr>
+</tbody>
+</table>
+
+### Revisi Pertanggung Jawaban – Pajak
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan NIPP dan Password</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu <strong>Sudah Diverifikasi</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image19.png" style="width:3.1601in;height:1.45483in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>Tampil halaman list yang belum di verifikasi. Pertama cek terlebih dahulu apakah list tersebut sudah di assign ke user atau belum. Jika belum di assign klik button <strong>Assign</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image20.png" style="width:2.96904in;height:1.36184in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Tampil Popup List User</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image21.png" style="width:2.94566in;height:1.36379in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td><p>Cari user yang bersangkutan/bertanggung jawab dengan verifikasi dokumen tersebut. Lalu klik <strong>Nama User</strong> dan klik button <strong>Assign</strong></p>
+<p>Catatan: untuk assign ini bisa dilakukan ke diri sendiri</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image22.png" style="width:3.26759in;height:1.52044in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Tampil popup konfirmasi lalu klik button <strong>Ya, Assign</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image23.png" style="width:3.2977in;height:1.51818in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td><p>Setelah selesai assign maka label status akan berubah menjadi <strong>di proses nama_user</strong>. Proses selanjutnya Adalah Verify atau Reject Dokumen. Klik button <strong>View</strong></p>
+<p>Catatan: Pastikan jenis pengadaannya Adalah <strong>Pertanggung Jawaban</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image24.png" style="width:3.85184in;height:1.74144in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td>Tampil Detail Seperti ini, lalu pastikan dokumen yang dibuat sesuai dengan kebutuhan, untuk melihat dokumen bisa klik button <strong>Dokumen Keabsahan.</strong> Jika semua dokumen sudah dipastikan sesuai selanjutnya adalah klik Buttton <strong>Calculate by AI/Verify</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image25.png" style="width:3.10132in;height:1.43188in" /></td>
+</tr>
+<tr>
+<td rowspan="3" style="text-align: center;">9</td>
+<td><p>Setelah klik <strong>Calculate by AI/Verify</strong></p>
+<p>akan muncul tampilan detail total dari pengeluaran sampai pajak. Jika ada perubahan nilai atau ada angkanya salah bisa langsung melakukan edit di fieldnya. Tapi jika sudah sesuai bisa langsung klik button <strong>Revisi</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image26.png" style="width:3.05556in;height:1.18472in" /></td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image27.png" style="width:2.30694in;height:1.16181in" /><img src="/img/railfinance/pajak-keuangan/media/image28.png" style="width:2.30972in;height:0.94375in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image29.png" style="width:2.28681in;height:0.64722in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td><p>Setelah klik Button <strong>Revisi</strong> akan muncul tampilan popup seperti berikut, <strong>masukkan keterangan</strong> yang membuat dokumen tersebut terkena <strong>Revisi</strong> setelah diisi keterangan lalu klik button <strong>Ya, Revisi</strong></p>
+<p>Catatan: untuk fungsi <strong>Revisi</strong> ini hanya menunassign user dan memberikan alasan revisi.</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image30.png" style="width:3.97876in;height:1.12609in" /></td>
+</tr>
+</tbody>
+</table>
+
+### Reject Pertanggung Jawaban – Pajak
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan NIPP dan Password</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu <strong>Sudah Diverifikasi</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image19.png" style="width:3.1601in;height:1.45483in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>Tampil halaman list yang belum di verifikasi. Pertama cek terlebih dahulu apakah list tersebut sudah di assign ke user atau belum. Jika belum di assign klik button <strong>Assign</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image20.png" style="width:2.96904in;height:1.36184in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Tampil Popup List User</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image21.png" style="width:2.94566in;height:1.36379in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td><p>Cari user yang bersangkutan/bertanggung jawab dengan verifikasi dokumen tersebut. Lalu klik <strong>Nama User</strong> dan klik button <strong>Assign</strong></p>
+<p>Catatan: untuk assign ini bisa dilakukan ke diri sendiri</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image22.png" style="width:3.26759in;height:1.52044in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Tampil popup konfirmasi lalu klik button <strong>Ya, Assign</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image23.png" style="width:3.2977in;height:1.51818in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td><p>Setelah selesai assign maka label status akan berubah menjadi <strong>di proses nama_user</strong>. Proses selanjutnya Adalah Verify atau Reject Dokumen. Klik button <strong>View</strong></p>
+<p>Catatan: Pastikan jenis pengadaannya Adalah <strong>Pertanggung Jawaban</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image24.png" style="width:3.85184in;height:1.74144in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td>Tampil Detail Seperti ini, lalu pastikan dokumen yang dibuat sesuai dengan kebutuhan, untuk melihat dokumen bisa klik button <strong>Dokumen Keabsahan.</strong> Jika semua dokumen sudah dipastikan sesuai selanjutnya adalah klik Buttton <strong>Calculate by AI/Verify</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image25.png" style="width:3.10132in;height:1.43188in" /></td>
+</tr>
+<tr>
+<td rowspan="3" style="text-align: center;">9</td>
+<td><p>Setelah klik <strong>Calculate by AI/Verify</strong></p>
+<p>akan muncul tampilan detail total dari pengeluaran sampai pajak. Jika ada perubahan nilai atau ada angkanya salah bisa langsung melakukan edit di fieldnya. Tapi jika sudah sesuai bisa langsung klik button <strong>Revisi</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image26.png" style="width:3.05556in;height:1.18472in" /></td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image27.png" style="width:2.30694in;height:1.16181in" /><img src="/img/railfinance/pajak-keuangan/media/image28.png" style="width:2.30972in;height:0.94375in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image29.png" style="width:2.28681in;height:0.64722in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td><p>Setelah klik Button <strong>Reject</strong> akan muncul tampilan popup seperti berikut, <strong>masukkan keterangan</strong> yang membuat dokumen tersebut terkena <strong>Reject</strong> setelah diisi keterangan lalu klik button <strong>Ya, Reject</strong></p>
+<p>Catatan: untuk fungsi <strong>Reject</strong> mengembalikan dokumen ini kepada pengaju di awal.</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image31.png" style="width:4.00139in;height:1.13264in" /></td>
+</tr>
+</tbody>
+</table>
+
+### Reject Dokumen
+
+| **No** | **Deskripsi** | **Gambar** |
+|:--:|----|:--:|
+| 1 | Buka aplikasi Railfinance Masukkan NIPP dan Password | <img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A screenshot of a computer AI-generated content may be incorrect." /> |
+| 2 | Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu **Menunggu Verifikasi** | <img src="/img/railfinance/pajak-keuangan/media/image4.png" style="width:3.1601in;height:1.45711in" alt="A screenshot of a computer AI-generated content may be incorrect." /> |
+| 3 | Proses selanjutnya Adalah Verify atau Reject Dokumen. Klik button **View** | <img src="/img/railfinance/pajak-keuangan/media/image10.png" style="width:3.85184in;height:1.77004in" alt="A screenshot of a computer AI-generated content may be incorrect." /> |
+| 4 | Tampil Detail Seperti ini, lalu pastikan dokumen yang dibuat sesuai dengan kebutuhan, untuk melihat dokumen bisa klik button **Dokumen.** Jika ada dokumen yang tidak sesuai maka klik Buttton **Reject** | <img src="/img/railfinance/pajak-keuangan/media/image11.png" style="width:3.27727in;height:1.51969in" alt="A screenshot of a computer AI-generated content may be incorrect." /> |
+| 5 | Muncul popup konfirmasi keterangan **Reject,** pastikan isi keterangan kenapa dokumen itu di **Reject** setelah diisi keterangannya lalu klik button **Ya, Reject** | <img src="/img/railfinance/pajak-keuangan/media/image32.png" style="width:3.36224in;height:1.54344in" /> |
+
+### Pencairan UMDS - Normal
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan NIPP dan Password</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu <strong>Internal (UMDS)</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image33.png" style="width:3.49779in;height:1.45711in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>Tampil halaman list <strong>Internal (UMDS)</strong> lalu klik button <strong>Tambah</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image34.png" style="width:3.24783in;height:1.36382in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Tampil Popup dan pilih <strong>Pencairan UMDS – Normal</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image35.png" style="width:2.93043in;height:1.35356in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td>Masukan <strong>Nomor NPD/PR</strong> dan masukan <strong>Tahun</strong> lalu klik button <strong>Ambil Data</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image36.png" style="width:3.27779in;height:1.52156in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Jika <strong>Nomor NPD/PR</strong> valid data akan muncul seperti gambar di samping. Setelah data muncul klik <strong>Simpan</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image37.png" style="width:3.32174in;height:1.51431in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td><p>Setelah klik simpan muncul popup list dokumen mana saja yang diperlukan. Catatan untuk <strong>Pencairan UMDS – Normal</strong> ini wajib ada dokumen:</p>
+<ul>
+<li><p><strong>Permohonan Dana</strong> atau <strong>NPD/PR</strong></p></li>
+<li><p><strong>Justifikasi UMDS</strong></p></li>
+<li><p><strong>RAB</strong></p></li>
+</ul>
+<p>Jika ada tambahan dokumen yang lain tinggal klik saja sesuaikan dengan kebutuhan.</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image38.png" style="width:3.34462in;height:1.57043in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td>Setelah selesai memilih dokumen langkah selanjutnya klik button <strong>Lanjut.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image39.png" style="width:3.82318in;height:1.76667in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td>Dokumen pertama yang kita upload Adalah <strong>RAB.</strong> Klik tab <strong>RAB</strong> lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai upload klik <strong>Simpan</strong> dan pastikan muncul notifikasi <strong>Dokumen RAB berhasil disimpan</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image40.png" style="width:3.28199in;height:1.51969in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td>Dokumen selanjutnya Adalah <strong>Justifikasi UMDS.</strong> Klik tab <strong>Justifikasi UMDS</strong> lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai klik <strong>Simpan</strong> dan pastikan muncul notifikasi <strong>Dokumen Justifikasi UMDS berhasil disimpan</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image41.png" style="width:3.35876in;height:1.54747in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">11</td>
+<td><p>Dokumen selanjutnya Adalah <strong>NPD/PR.</strong> Klik tab <strong>NPD/PR</strong> lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai klik <strong>Simpan</strong> dan pastikan muncul notifikasi <strong>Dokumen NPD/PR berhasil disimpan.</strong></p>
+<p>Catatan: untuk nama dokumen NPD/PR sesuaikan dengan nomor <strong>NDP/PR</strong> contoh: <strong>1900007145.pdf</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image42.png" style="width:3.29071in;height:1.51571in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">12</td>
+<td>Dokumen selanjutnya Adalah <strong>Bentuk G61.</strong> Klik tab <strong>Bentuk G61</strong> lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai klik klik <strong>Simpan</strong> dan pastikan muncul notifikasi <strong>Dokumen NPD/PR berhasil disimpan.</strong> Kemudian klik button <strong>Lanjut</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image43.png" style="width:3.29722in;height:1.51348in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">13</td>
+<td>Setelah klik <strong>Lanjut</strong> maka tab selanjutnya adalah <strong>Approval.</strong> Klik checkbox <strong>Baca Syarat dan ketentuan terkait pengajuan.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image44.png" style="width:4.10435in;height:1.91834in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">14</td>
+<td>Pastikan syarat dan ketentuannya terpenuhi. Lalu klik button <strong>Setuju</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image45.png" style="width:3.74372in;height:1.734in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">15</td>
+<td>Lalu klik button <strong>Submit</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image46.png" style="width:3.97364in;height:1.8062in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">16</td>
+<td>Setelah klik <strong>Submit</strong> akan muncul list user untuk pemeriksa yang akan memvalidasi pengajuan.</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image47.png" style="width:3.75345in;height:1.74099in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">17</td>
+<td><p>Cari nama user pemeriksa lalu klik <strong>Nama User</strong> tersebut kemudian klik <strong>Submit</strong></p>
+<p>Catatan: Untuk pemeriksa ini optional jika tidak perlu pemeriksa bisa langsung klik button <strong>Lewati Pemeriksa</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image48.png" style="width:3.83926in;height:1.78079in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">18</td>
+<td>Setelah <strong>Submit</strong> muncul popup untuk konfirmasi pilih button <strong>Ya Submit</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image49.png" style="width:3.74094in;height:1.73946in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">19</td>
+<td>Jika berhasil pengajuan akan muncul di list paling atas dan tinggal tunggu proses Approval dari atasan</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image50.png" style="width:4.23502in;height:1.79105in" /></td>
+</tr>
+</tbody>
+</table>
+
+### Pencairan UMDS - Penggantian
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan NIPP dan Password</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A robot and a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu <strong>Internal (UMDS)</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image33.png" style="width:3.49779in;height:1.45711in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>Tampil halaman list <strong>Internal (UMDS)</strong> lalu klik button <strong>Tambah</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image34.png" style="width:3.24783in;height:1.36382in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Tampil Popup dan pilih <strong>Pencairan UMDS – Penggantian</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image35.png" style="width:2.93043in;height:1.35356in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td>Masukan <strong>Nomor NPD/PR</strong> dan masukan <strong>Tahun</strong> lalu klik button <strong>Ambil Data</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image51.png" style="width:3.30636in;height:1.52561in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Jika <strong>Nomor NPD/PR</strong> valid data akan muncul seperti gambar di samping. Setelah data muncul klik <strong>Simpan</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image52.png" style="width:3.32416in;height:1.52343in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td><p>Setelah klik simpan muncul popup list dokumen mana saja yang diperlukan. Catatan untuk <strong>Pencairan UMDS – Normal</strong> ini wajib ada dokumen:</p>
+<ul>
+<li><p><strong>Permohonan Dana</strong> atau <strong>NPD/PR</strong></p></li>
+<li><p><strong>Justifikasi UMDS</strong></p></li>
+<li><p><strong>RAB</strong></p></li>
+<li><p><strong>Salah satu bukti pembayaran/Invoice</strong></p></li>
+</ul>
+<p>Jika ada tambahan dokumen yang lain tinggal klik saja sesuaikan dengan kebutuhan.</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image53.png" style="width:3.36758in;height:1.53806in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td>Setelah selesai memilih dokumen langkah selanjutnya klik button <strong>Lanjut.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image54.png" style="width:3.83151in;height:1.77991in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td>Dokumen pertama yang kita upload Adalah <strong>RAB.</strong> Klik tab <strong>RAB</strong> lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai klik <strong>Simpan</strong> dan tunggu sampai notifikasi <strong>Dokumen RAB berhasil disimpan.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image55.png" style="width:3.24936in;height:1.51969in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td>Dokumen selanjutnya Adalah <strong>Justifikasi UMDS.</strong> Klik tab <strong>Justifikasi UMDS</strong> lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai klik <strong>Simpan</strong> dan tunggu sampai notifikasi <strong>Dokumen Justifikasi UMDS disimpan.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image56.png" style="width:3.32741in;height:1.54747in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">11</td>
+<td>Dokumen selanjutnya Adalah <strong>NPD/PR.</strong> Klik tab <strong>NPD/PR</strong> lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai klik <strong>Simpan</strong> dan tunggu sampai notifikasi <strong>Dokumen NPD/PR disimpan.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image57.png" style="width:3.29071in;height:1.52479in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">12</td>
+<td>Dokumen selanjutnya Adalah <strong>Invoice.</strong> Klik tab <strong>Invoice</strong> lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai klik <strong>Simpan</strong> tunggu sampai notifikasi <strong>Dokumen Justifikasi UMDS disimpan.</strong> Lalu klik button <strong>Lanjut</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image58.png" style="width:3.27517in;height:1.51215in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">13</td>
+<td>Setelah klik <strong>Lanjut</strong> maka tab selanjutnya adalah <strong>Approval.</strong> Klik checkbox <strong>Baca Syarat dan ketentuan terkait pengajuan.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image59.png" style="width:4.12503in;height:1.92272in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">14</td>
+<td>Pastikan syarat dan ketentuannya terpenuhi. Lalu klik button <strong>Setuju</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image60.png" style="width:3.74811in;height:1.74313in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">15</td>
+<td>Lalu klik button <strong>Submit</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image61.png" style="width:3.9627in;height:1.81477in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">16</td>
+<td>Setelah klik <strong>Submit</strong> akan muncul list user untuk pemeriksa yang akan memvalidasi pengajuan.</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image47.png" style="width:3.75345in;height:1.74099in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">17</td>
+<td><p>Cari nama user pemeriksa lalu klik <strong>Nama User</strong> tersebut kemudian klik <strong>Submit</strong></p>
+<p>Catatan: Untuk pemeriksa ini optional jika tidak perlu pemeriksa bisa langsung klik button <strong>Lewati Pemeriksa</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image62.png" style="width:3.60864in;height:1.67382in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">18</td>
+<td>Setelah <strong>Submit</strong> muncul popup untuk konfirmasi pilih button <strong>Ya Submit</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image49.png" style="width:3.74094in;height:1.73946in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">19</td>
+<td>Jika berhasil pengajuan akan muncul di list paling atas dan tinggal tunggu proses Approval dari atasan</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image63.png" style="width:3.61644in;height:1.79876in" /></td>
+</tr>
+</tbody>
+</table>
+
+### Pertanggung Jawaban UMDS 
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan NIPP dan Password</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A robot and a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu <strong>Internal (UMDS)</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image33.png" style="width:3.49779in;height:1.45711in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>Tampil halaman list <strong>Internal (UMDS)</strong> lalu klik button <strong>Tambah</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image34.png" style="width:3.24783in;height:1.36382in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Tampil Popup dan pilih <strong>Pertanggung Jawaban UMDS</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image35.png" style="width:2.93043in;height:1.35356in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td>Masukan <strong>Nomor G63</strong> dan masukan <strong>Tahun</strong> lalu klik button <strong>Ambil Data</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image64.png" style="width:3.30636in;height:1.52561in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Jika <strong>Nomor G63</strong> valid data akan muncul seperti gambar di samping. Setelah data muncul klik <strong>Simpan</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image65.png" style="width:3.29617in;height:1.52343in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td><p>Setelah klik simpan muncul popup list dokumen mana saja yang diperlukan. Catatan untuk <strong>Pertanggung Jawaban UMDS</strong> ini wajib ada dokumen:</p>
+<ul>
+<li><p><strong>Dokumen G61</strong></p></li>
+<li><p><strong>Salah satu bukti yaitu Invoice/Bukti Pembayaran</strong></p></li>
+</ul>
+<p>Jika ada tambahan dokumen yang lain tinggal klik saja sesuaikan dengan kebutuhan.</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image66.png" style="width:3.36758in;height:1.56615in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td><p>Setelah selesai memilih dokumen langkah selanjutnya klik button <strong>Pilih File</strong> lalu upload file yang akan diverifikasi dan klik button <strong>Lanjut.</strong></p>
+<p>Catatan: untuk format Upload hanya boleh image (<strong>.jpg</strong>)</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image67.png" style="width:3.84013in;height:1.76925in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td>Dokumen pertama yang kita upload Adalah <strong>Bentuk G61.</strong> Klik tab <strong>Bentuk G61</strong> lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai klik <strong>Simpan</strong> dan tunggu sampai notifikasi <strong>Dokumen Bentuk G61 berhasil disimpan.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image68.png" style="width:3.2708in;height:1.51969in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td>Dokumen selanjutnya Adalah <strong>Bukti Pembayaran.</strong> Klik tab lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai klik <strong>Simpan</strong> dan tunggu sampai notifikasi <strong>Dokumen Bentuk G61 berhasil disimpan.</strong> Kemudian klik <strong>Lanjut</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image69.png" style="width:3.35876in;height:1.54747in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">11</td>
+<td>Setelah klik <strong>Lanjut</strong> maka tab selanjutnya adalah <strong>Approval.</strong> Klik checkbox <strong>Baca Syarat dan ketentuan terkait pengajuan.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image70.png" style="width:4.05738in;height:1.88616in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">12</td>
+<td>Pastikan syarat dan ketentuannya terpenuhi. Lalu klik button <strong>Setuju</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image71.png" style="width:3.76076in;height:1.74313in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">13</td>
+<td>Lalu klik button <strong>Submit</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image46.png" style="width:3.97364in;height:1.8062in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">14</td>
+<td>Setelah klik <strong>Submit</strong> akan muncul list user untuk pemeriksa yang akan memvalidasi pengajuan.</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image72.png" style="width:3.72908in;height:1.72968in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">15</td>
+<td><p>Cari nama user pemeriksa lalu klik <strong>Nama User</strong> tersebut kemudian klik <strong>Submit</strong></p>
+<p>Catatan: Untuk pemeriksa ini optional jika tidak perlu pemeriksa bisa langsung klik button <strong>Lewati Pemeriksa</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image48.png" style="width:3.83926in;height:1.78079in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">16</td>
+<td>Setelah <strong>Submit</strong> muncul popup untuk konfirmasi pilih button <strong>Ya Submit</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image49.png" style="width:3.74094in;height:1.73946in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">17</td>
+<td>Jika berhasil pengajuan akan muncul di list paling atas dan tinggal tunggu proses Approval dari atasan</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image73.png" style="width:3.92048in;height:1.79876in" /></td>
+</tr>
+</tbody>
+</table>
+
+### 
+
+### Revisi UMDS
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan NIPP dan Password</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A robot and a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu <strong>Internal (UMDS)</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image33.png" style="width:3.49779in;height:1.45711in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>Tampil halaman list <strong>Internal (UMDS),</strong> lalu cari list yang terkena revisi atau <strong>Dikembalikan</strong> dan klik</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image74.png" style="width:3.17012in;height:1.38011in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Setelah klik edit akan langsung di arahkan ke <strong>Step Unggah Dokumen,</strong> Pilih dokumen yang akan direvisi dan klik tab yang bersangkutan. Contoh disini kita ambil Revisi dokumen <strong>NPD/PR</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image75.png" style="width:3.30636in;height:1.43942in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td>Klik tab <strong>NPD/PR</strong> lalu klik button <strong>Pilih File</strong> pastikan file yang diupload sesuai. Lalu tunggu hingga proses upload selesai. Jika sudah selesai klik Lanjut</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image76.png" style="width:3.32416in;height:1.45237in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Setelah klik <strong>Lanjut</strong> maka tab selanjutnya adalah <strong>Approval.</strong> Klik checkbox <strong>Baca Syarat dan ketentuan terkait pengajuan.</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image59.png" style="width:4.12503in;height:1.92272in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td>Pastikan syarat dan ketentuannya terpenuhi. Lalu klik button <strong>Setuju</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image60.png" style="width:3.74811in;height:1.74313in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td>Lalu klik button <strong>Submit</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image61.png" style="width:3.9627in;height:1.81477in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td>Setelah klik <strong>Submit</strong> akan muncul list user untuk pemeriksa yang akan memvalidasi pengajuan.</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image47.png" style="width:3.75345in;height:1.74099in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td><p>Cari nama user pemeriksa lalu klik <strong>Nama User</strong> tersebut kemudian klik <strong>Submit</strong></p>
+<p>Catatan: Untuk pemeriksa ini optional jika tidak perlu pemeriksa bisa langsung klik button <strong>Lewati Pemeriksa</strong></p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image62.png" style="width:3.60864in;height:1.67382in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">11</td>
+<td>Setelah <strong>Submit</strong> muncul popup untuk konfirmasi pilih button <strong>Ya Submit</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image49.png" style="width:3.74094in;height:1.73946in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">12</td>
+<td>Jika berhasil pengajuan akan muncul di list paling atas dan tinggal tunggu proses Approval dari atasan</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image63.png" style="width:3.61644in;height:1.79876in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+</tbody>
+</table>
+
+### Hapus UMDS
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 35%" />
+<col style="width: 60%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>No</strong></th>
+<th style="text-align: center;"><strong>Deskripsi</strong></th>
+<th style="text-align: center;"><strong>Gambar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Buka aplikasi Railfinance Masukkan NIPP dan Password</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A robot and a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu <strong>Internal (UMDS)</strong></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image33.png" style="width:3.49779in;height:1.45711in" alt="A screenshot of a computer AI-generated content may be incorrect." /></td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td><p>Tampil halaman list <strong>Internal (UMDS),</strong> lalu cari list yang terkena status <strong>Draft,</strong> Lalu pilih <strong>Icon Delete/Hapus.<br />
+</strong></p>
+<p>Catatan: Untuk UMDS dengan status <strong>DRAFT</strong> saja yang bisa dihapus.</p></td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image77.png" style="width:2.98091in;height:1.38011in" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Klik button <strong>Delete</strong> untuk konfirmasi hapus data.</td>
+<td style="text-align: center;"><img src="/img/railfinance/pajak-keuangan/media/image78.png" style="width:3.13565in;height:1.43942in" /></td>
+</tr>
+</tbody>
+</table>
+
+### Approve UMDS 
+
+| **No** | **Deskripsi** | **Gambar** |
+|:--:|----|:--:|
+| 1 | Buka aplikasi Railfinance Masukkan NIPP dan Password | <img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A robot and a computer AI-generated content may be incorrect." /> |
+| 2 | Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu **Internal (UMDS)** | <img src="/img/railfinance/pajak-keuangan/media/image33.png" style="width:3.49779in;height:1.45711in" alt="A screenshot of a computer AI-generated content may be incorrect." /> |
+| 3 | Cari status yang **Approval Pemeriksa** lalu klik **Icon Approve** | <img src="/img/railfinance/pajak-keuangan/media/image79.png" style="width:2.97772in;height:1.38011in" /> |
+| 4 | Tampil Detail Seperti ini, lalu pastikan dokumen yang dibuat sesuai dengan kebutuhan, untuk melihat dokumen bisa klik button **Unduh 1 Bundle.** Jika semua dokumen sudah dipastikan sesuai selanjutnya adalah klik Buttton **Approval Pemeriksa** | <img src="/img/railfinance/pajak-keuangan/media/image80.png" style="width:2.94189in;height:1.36532in" /> |
+| 5 | Lalu akan muncul popup konfirmasi dan klik button **Ya, Approve** | <img src="/img/railfinance/pajak-keuangan/media/image81.png" style="width:3.28976in;height:1.52561in" /> |
+
+### Reject UMDS 
+
+| **No** | **Deskripsi** | **Gambar** |
+|:--:|----|:--:|
+| 1 | Buka aplikasi Railfinance Masukkan NIPP dan Password | <img src="/img/railfinance/pajak-keuangan/media/image3.png" style="width:3.62014in;height:1.56228in" alt="A robot and a computer AI-generated content may be incorrect." /> |
+| 2 | Jika login berhasil Sistem akan menampilkan halaman dashboard. Lalu pilih menu **Internal (UMDS)** | <img src="/img/railfinance/pajak-keuangan/media/image33.png" style="width:3.49779in;height:1.45711in" alt="A screenshot of a computer AI-generated content may be incorrect." /> |
+| 3 | Cari status yang **Approval Pemeriksa** lalu klik **Icon Approve** | <img src="/img/railfinance/pajak-keuangan/media/image79.png" style="width:2.97772in;height:1.38011in" alt="A screenshot of a computer AI-generated content may be incorrect." /> |
+| 4 | Tampil Detail Seperti ini, lalu pastikan dokumen yang dibuat sesuai dengan kebutuhan, untuk melihat dokumen bisa klik button **Unduh 1 Bundle.** Jika ada dokumen yang tidak sesuai maka klik Buttton **Reject** | <img src="/img/railfinance/pajak-keuangan/media/image80.png" style="width:2.94189in;height:1.36532in" alt="A screenshot of a computer AI-generated content may be incorrect." /> |
+| 5 | Muncul popup konfirmasi keterangan **Reject,** pastikan isi keterangan kenapa dokumen itu di **Reject** setelah diisi keterangannya lalu klik button **Ya, Reject** | <img src="/img/railfinance/pajak-keuangan/media/image82.png" style="width:3.28976in;height:1.51967in" /> |
+
+### 
+
+
