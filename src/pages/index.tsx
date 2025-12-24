@@ -57,7 +57,7 @@ function ModuleSelection() {
               <div className="card__footer margin-top--md">
                 <Link
                   className="button button--primary button--block button--lg"
-                  to="/docs/internal/unit-pengaju"
+                  to="/docs/category/internal-system"
                   style={{ borderRadius: '8px', fontWeight: 600 }}>
                   Akses Dokumentasi &rarr;
                 </Link>
