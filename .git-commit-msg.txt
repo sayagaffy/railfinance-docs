@@ -1,0 +1,10 @@
+feat: add AI context generator for external LLMs
+
+- Add scripts/generate-ai-context.js to aggregate all docs
+- Script recursively scans docs/ for .md and .mdx files
+- Generates static/ai-context.txt (358KB from 41 files)
+- Update build script to run generator before Docusaurus build
+- Output publicly accessible for LLM context consumption
+
+This enables external LLMs (Gemini, ChatGPT) to access complete
+project documentation via single URL endpoint.

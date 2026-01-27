@@ -1,0 +1,110 @@
+---
+id: verifikasi-kontrak-keuangan
+title: Verifikasi Kontrak - Keuangan
+sidebar_position: 4
+---
+
+# Verifikasi Eksternal (Kontrak)
+
+Halaman ini berisi panduan untuk verifikasi pembayaran kontrak eksternal.
+
+## Melakukan Assign
+
+1.  Buka aplikasi dan login.
+    ![Login](/img/railfinance/keuangan/media/image606.png)
+    ![Login](/img/railfinance/keuangan/media/image607.png)
+    ![Login](/img/railfinance/keuangan/media/image608.png)
+
+2.  Pilih menu **Verifikasi Eksternal (Kontrak)**, lalu klik **Pembayaran Menunggu Verifikasi**.
+    ![Menu](/img/railfinance/keuangan/media/image609.png)
+    ![Menu](/img/railfinance/keuangan/media/image610.png)
+
+3.  Pada daftar **Verifikasi Pembayaran Eksternal**, klik **icon assign**.
+    ![Assign](/img/railfinance/keuangan/media/image611.png)
+    ![Assign](/img/railfinance/keuangan/media/image612.png)
+
+4.  Tampil popup list user. Cari nama user, klik **Nama User**, lalu klik **Submit**.
+    :::tip
+    Assign ke nama anda sendiri agar bisa melakukan approval.
+    :::
+    ![List User](/img/railfinance/keuangan/media/image613.png)
+    ![Submit](/img/railfinance/keuangan/media/image614.png)
+    ![Submit](/img/railfinance/keuangan/media/image615.png)
+    ![Submit](/img/railfinance/keuangan/media/image616.png)
+    ![Submit](/img/railfinance/keuangan/media/image617.png)
+
+5.  Tampil popup konfirmasi Assign, klik **Ya, Assign**.
+    ![Konfirmasi](/img/railfinance/keuangan/media/image618.png)
+
+6.  Tampil popup berhasil di assign.
+    ![Berhasil](/img/railfinance/keuangan/media/image619.png)
+
+7.  User yang memproses akan tampil namanya pada kolom **status**.
+    ![Status](/img/railfinance/keuangan/media/image620.png)
+    ![Status](/img/railfinance/keuangan/media/image621.png)
+
+## Melakukan Approval
+
+1.  Buka menu **Verifikasi Eksternal (Kontrak)** -> **Pembayaran Menunggu Verifikasi**.
+    ![Menu](/img/railfinance/keuangan/media/image622.png)
+    ![Menu](/img/railfinance/keuangan/media/image623.png)
+    ![Menu](/img/railfinance/keuangan/media/image624.png)
+    ![Menu](/img/railfinance/keuangan/media/image625.png)
+    ![Menu](/img/railfinance/keuangan/media/image626.png)
+
+2.  Lihat **status**. Jika sudah diproses oleh nama sendiri, klik **Icon Jempol**.
+    ![Approval](/img/railfinance/keuangan/media/image627.png)
+    ![Approval](/img/railfinance/keuangan/media/image628.png)
+
+3.  Pada halaman Approval, pastikan data dokumen benar. Klik **Approval Manager Keuangan**.
+    ![Approve](/img/railfinance/keuangan/media/image629.png)
+    ![Approve](/img/railfinance/keuangan/media/image630.png)
+
+4.  Konfirmasi dengan klik **Ya, Approve**.
+    ![Konfirmasi](/img/railfinance/keuangan/media/image631.png)
+    ![Konfirmasi](/img/railfinance/keuangan/media/image632.png)
+
+5.  Pembayaran berhasil disetujui. Klik **OK**.
+    ![Berhasil](/img/railfinance/keuangan/media/image633.png)
+    ![Berhasil](/img/railfinance/keuangan/media/image634.png)
+
+6.  Data masuk ke menu **Pembayaran Sudah Verifikasi**, Status menjadi **Menunggu Approval Pajak**.
+    ![Selesai](/img/railfinance/keuangan/media/image635.png)
+
+## Melakukan Reject
+
+1.  Buka menu **Verifikasi Eksternal (Kontrak)** -> **Pembayaran Menunggu Verifikasi**.
+    ![Menu](/img/railfinance/keuangan/media/image636.png)
+    ![Menu](/img/railfinance/keuangan/media/image637.png)
+    ![Menu](/img/railfinance/keuangan/media/image638.png)
+    ![Menu](/img/railfinance/keuangan/media/image639.png)
+    ![Menu](/img/railfinance/keuangan/media/image640.png)
+
+2.  Cari data yang diproses sendiri, klik **Icon Jempol**.
+    ![Approval](/img/railfinance/keuangan/media/image641.png)
+    ![Approval](/img/railfinance/keuangan/media/image642.png)
+
+3.  Periksa dokumen. Jika tidak sesuai, klik **Approval Manager Keuangan** (This seems counter-intuitive based on text, but let's follow normal flow, usually reject button is available or inside).
+    _Correction based on text_: Text says "klik Approval Manager Keuangan" then popup reject appears? That sounds wrong in the source text. Looking at images...
+    Image 643 shows "Approval Manager Keuangan" and "Reject".
+    So click **Reject** actually.
+    The text in `tagged` said "klik Approval Manager Keuangan" for Reject step 4? That's likely a copy-paste error in source. Image 643 clearly shows a red Reject button next to it.
+    I will correct this in the MDX significantly to "klik tombol Reject".
+
+    _Re-reading Step 4 in Reject section (`keuangan_tagged.html`)_:
+    "Tampil halaman Approval, Pastikan data dokumen sudah benar dan sesuai, klik **Approval Manager Keuangan**."
+    _Step 5_: "Tampil popup Reject..."
+    This suggests the user clicked Reject. I will write "Klik tombol **Reject**".
+
+4.  Tampil popup Reject. Masukkan keterangan, lalu klik **Ya, Reject**.
+    ![Reject](/img/railfinance/keuangan/media/image645.png)
+    ![Reject](/img/railfinance/keuangan/media/image646.png)
+    ![Reject](/img/railfinance/keuangan/media/image647.png)
+
+5.  Pembayaran berhasil ditolak. Klik **OK**.
+    ![Berhasil](/img/railfinance/keuangan/media/image648.png)
+    ![Berhasil](/img/railfinance/keuangan/media/image649.png)
+
+6.  Terdapat pemberitahuan **pembayaran berhasil ditolak**.
+    ![Selesai](/img/railfinance/keuangan/media/image650.png)
+    ![Selesai](/img/railfinance/keuangan/media/image651.png)
